@@ -6,4 +6,4 @@
 # JavaScript-Algorithm
 
 # Vue.js
-> - [0829](./Vue/0829.md) | &nbsp;Vue 개발환경 구축
+> - <a href='https://github.com/ysh2987/Vue.js/blob/master/README/0829.md'>0829</a> | &nbsp;Vue 개발환경 구축
