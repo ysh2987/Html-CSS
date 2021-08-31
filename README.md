@@ -3,8 +3,7 @@
 # HTML
 > - [0828](./Html/0828.md) | &nbsp;HTML 개요 &nbsp; / &nbsp; 실습환경 구축
 > - [0830](./Html/0830.md) | &nbsp;HTML 이란? &nbsp; / &nbsp; 메타데이터 요소
-> - [0831](./Html/0831.md) | &nbsp;텍스트 요소 &nbsp; / &nbsp; 메타데이터 요소
-텍스트 요소 / 메타데이터 요소
+> - [0831](./Html/0831.md) | &nbsp;텍스트 요소 &nbsp; / &nbsp; 구조를 나타내는 요소
 # JavaScript-Algorithm
 > - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0830.md'>0830</a> | &nbsp;프로그래머스 Lv1 
 > - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0831.md'>0831</a> | &nbsp;프로그래머스 Lv1 
