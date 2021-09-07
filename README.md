@@ -18,7 +18,7 @@
 > - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0904.md'>0904</a> | &nbsp;연습문제
 > - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0905.md'>0905</a> | &nbsp;프로그래머스 Lv1 
 > - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0906.md'>0906</a> | &nbsp;프로그래머스 Lv1 
-> - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0906.md'>0907</a> | &nbsp;프로그래머스 Lv1 
+> - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0907.md'>0907</a> | &nbsp;프로그래머스 Lv1 
 # Vue.js
 > - <a href='https://github.com/ysh2987/Vue.js/blob/master/README/0829.md'>0829</a> | &nbsp;Vue 개발환경 구축
 > - <a href='https://github.com/ysh2987/Vue.js/blob/master/README/0830.md'>0830</a> | &nbsp;Vue 문법 - 1
