@@ -21,10 +21,12 @@
 > - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0906.md'>0906</a> | &nbsp;프로그래머스 Lv1 
 > - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0907.md'>0907</a> | &nbsp;프로그래머스 Lv1 
 > - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0908.md'>0908</a> | &nbsp;프로그래머스 Lv1 
+> - <a href='https://github.com/ysh2987/JavaScript-Algorithm/blob/master/README/0908.md'>0909</a> | &nbsp;프로그래머스 Lv1 
 # Vue.js
 > - <a href='https://github.com/ysh2987/Vue.js/blob/master/README/0829.md'>0829</a> | &nbsp;Vue 개발환경 구축
 > - <a href='https://github.com/ysh2987/Vue.js/blob/master/README/0830.md'>0830</a> | &nbsp;Vue 문법 - 1
 > - <a href='https://github.com/ysh2987/Vue.js/blob/master/README/0831.md'>0831</a> | &nbsp;Vue 문법 - 2
 > - <a href='https://github.com/ysh2987/Vue.js/blob/master/README/0901.md'>0901</a> | &nbsp;Vue 문법 - 3
 > - <a href='https://github.com/ysh2987/Vue.js/blob/master/README/0902.md'>0902</a> | &nbsp;Vue 컴포지션 API
-> - <a href='https://github.com/ysh2987/Vue.js/tree/master/movie'>0908</a> | &nbsp; OMDb-Api 프로젝트 - 환경 설정, Router, Header, Headline, input-search, store 구현
+> - <a href='hhttps://github.com/ysh2987/Vue-Practice-Project'>0908</a> | &nbsp; OMDb-Api 프로젝트 - 환경 설정, Router, Header, Headline, input-search, store 구현
+> - <a href='hhttps://github.com/ysh2987/Vue-Practice-Project'>0909</a> | &nbsp; OMDb-Api 프로젝트 - API 비동기 처리, 영화검색 추가요청, 로딩, Footer
