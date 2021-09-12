@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Document</title>
+    <style>
+      *{
+        padding: 0;
+        box-sizing: border-box;
+        margin: 0;
+        list-style-type: none;
+      }
+      section{
+        position: relative;
+      }
+      header{
+        background-color: blue;
+        color: white;
+        padding: 20px 10px;
+        line-height: 40px;
+        width: 85%;
+      }
+      main{
+        padding: 20px 10px;
+        width: 85%;
+      }
+      main p {
+        margin-top: 20px;
+      }
+      article{
+        padding: 20px 10px;
+        width: 15%;
+        position: absolute;
+        top: 0;
+        right: 0;
+      }
+      article p{
+        border-bottom: 1px solid black;
+      }
+      ul{
+        padding: 10px;
+      }
+      li{
+        border-bottom: 1px solid black;
+        line-height: 30px;
+      }
+      @media (max-width: 720px){
+        header,
+        main,
+        article{
+            width: 100%;
+        }
+        article{
+            position: static;
+        }
+      }
+    </style>
+	</head>
+	<body>
+    <section>
+      <header>
+        <h1>삼성전자</h1>
+        <P>종목코드 006990</P>
+      </header>
+      <main>
+        <h2>회사소개</h2>
+        <p>한국 및 CE, IM부문 해외 9개 지역총괄과 DS부문 해외 5개 지역총괄, Harman 등 241개의 종속기업으로 구성된 글로벌 전자기업임. 세트사업에는 TV, 냉장고 등을 생산하는 CE부문과 스마트폰, 네트워크시스템, 컴퓨터
+          등을 생산하는 IM부문이 있음. 부품사업(DS부문)에서는 D램, 낸드 플래쉬, 모바일AP 등의 제품을 생산하는 반도체 사업과 TFT-LCD 및 OLED 디스플레이 패널을 생산하는 DP사업으로 구성됨.</p>
+      </main>
+      <article>
+        <h2>시가총액 순위</h2>
+        <ul>
+          <li>1. 삼성전자</li>
+          <li>2. SK 하이닉스</li>
+          <li>3. NAVER</li>
+          <li>4. 카카오</li>
+          <li>5. 삼성바이오로직스</li>
+          <li>6. 삼성전자우</li>
+          <li>7. 삼성SDI</li>
+          <li>8. LG화학</li>
+          <li>9. 현대차</li>
+          <li>10. 셀트리온</li>
+        </ul>
+      </article>
+    </section>
+    
+	</body>
+</html>
