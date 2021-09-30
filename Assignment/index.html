@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- 구글 폰트 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./main.css">
+  <title>Html 과제</title>
+</head>
+<body>
+  <div>
+    <table>
+      <caption>서비스 요금표<span>부피, 택배추가비용, 노무비, 수량당, 포장비, 부자재, 택배비 합계, 보관료(월), 상하차 서비스에 대한 요금표</span></caption>
+      <thead>
+        <tr>
+          <th id="division">구분</th>
+          <th id="volume">부피(L)</th>
+          <th id="addition">택배추가비용(원)</th>
+          <th id="person">노무비</th>
+          <th id="quantity">수량당(10원)</th>
+          <th id="packaging">포장비+부자재</th>
+          <th id="sum">택배비 합계(원)</th>
+          <th id="keep">보관료(월)</th>
+          <th id="sku">상하차(SKU)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th id="price" rowspan="5">가격표(원)</th>
+          <th id="unit_1">1~4</th>
+          <td headers="addition price unit_1">0</td>
+          <td headers="person price unit_1" rowspan="5">400</td>
+          <td headers="quantity price unit_1" rowspan="5">10</td>
+          <td headers="packaging price unit_1">210</td>
+          <td headers="sum price unit_1">2500</td>
+          <td headers="keep price" rowspan="5">18,000 <br/>~ 20,000</td>
+          <td headers="sku price" rowspan="5">800</td>
+        </tr>
+        <tr>
+          <th id="unit_2">5~20</th>
+          <td headers="addition price unit_2">208~950</td>
+          <td headers="packaging price unit_2">231~420</td>
+          <td headers="sum price unit_2">2,738~3,640</td>
+        </tr>
+        <tr>
+          <th id="unit_3">21~30</th>
+          <td headers="addition price unit_3">998~1425</td>
+          <td headers="packaging price unit_3">441~630</td>
+          <td headers="sum price unit_3">3,707~4,305</td>
+        </tr>
+        <tr>
+          <th id="unit_4">31~40</th>
+          <td headers="addition price unit_4">1473~1900</td>
+          <td headers="packaging price unit_4">651~840</td>
+          <td headers="sum price unit_4">4,372~4,970</td>
+        </tr>
+        <tr>
+          <th id="unit_5">41~50</th>
+          <td headers="addition price unit_5">1948~2375</td>
+          <td headers="packaging price unit_5">861~1,050</td>
+          <td headers="sum price unit_5">5,037~5,635</td>
+        </tr>
+        <tr>
+          <th id="etc" rowspan="6">기타</th>
+          <td class="left" headers="etc" colspan="6">- 실제 상품 부피에 따라 1L 단위로 택배출고 비용 측정</td>
+          <td headers="etc" rowspan="2">1P = 1500L</td>
+          <td headers="etc" rowspan="2">다품목일 경우<br>별도 협의 필요</td>
+        </tr>
+        <tr>
+          <td class="left" headers="etc" colspan="6">- 월 발송 수량에 따라 협의 가능 / CJ택배 이용</td>
+          
+        </tr>
+        <tr>
+          <td class="left" headers="etc" colspan="6">- VAT 별도 요금</td>
+          <td class="empty">내용 없음</td>
+          <td class="empty">내용 없음</td>
+        </tr>
+        <tr>
+          <td class="left" headers="etc" colspan="6">- 물류관리 시스템 제공 가능</td>
+          <td class="empty">내용 없음</td>
+          <td class="empty">내용 없음</td>
+        </tr>
+        <tr>
+          <td class="left" headers="etc" colspan="6">- CCTV 24시간 가동</td>
+          <td class="empty">내용 없음</td>
+          <td class="empty">내용 없음</td>
+        </tr>
+        <tr>
+          <td class="left" headers="etc" colspan="6">- 화재보험(DB) 가입완료 사업장</td>
+          <td class="empty">내용 없음</td>
+          <td class="empty">내용 없음</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
