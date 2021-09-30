@@ -47,13 +47,11 @@
 <img src="../img/web.jpg">
 
 <br>
-<br>
 
 
 ## 라이트하우스에서 접근성 및 SEO 관련 분석 리포트 제출
 <img src="../img/light_house.jpg">
 
-<br>
 <br>
 
 ## 프로젝트 완료 후기(시행착오 및 성장기)
